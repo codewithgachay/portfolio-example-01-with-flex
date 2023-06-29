@@ -1,15 +1,10 @@
+
 /* CSS VARAIBLES STARTS HERE  */
 
 :root {
   --blac: #303031;
   --green: #71a894;
   --white: #fff;
-}
-
-.demo {
-  height: 50vh;
-  padding-top: 6.25rem;
-  font-size: 6.25rem;
 }
 
 /* HEADER STARTS HERE */
