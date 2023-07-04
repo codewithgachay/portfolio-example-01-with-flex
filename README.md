@@ -1,3 +1,5 @@
-# Responsive Layout with only Flexbox 
+# Responsive Layout with only Flexbox and Figma
 
 This is the first website page I have created using flexbox to create a layout that responds to different sized screens.
+I used Figma is a handy tool for brainstorming. This page was used text boxes to write anything you might need to refer to later, along with using different shapes and adding comments—plus much more.
+A well-designed website is crucial for businesses that want to maximize their income and reach more people. But before a site goes live, a lot of prior planning needs to take place behind the scenes. If you want to see how different webpages would look before bringing them to life, Figma is worth using that I used. In Figma, I choose from numerous dimension sizes to accurately depict what your page would look like. For example, I can choose from different iPhone sizes if you’re making something that will feature on a smartphone. I can also choose other useful functions to see how the page will perform in real life, such as scrolling.
